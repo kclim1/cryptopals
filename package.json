@@ -1,0 +1,21 @@
+{
+  "name": "cryptopals",
+  "version": "1.0.0",
+  "description": "working through the psets from cryptopals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kclim1/cryptopals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kclim1/cryptopals/issues"
+  },
+  "homepage": "https://github.com/kclim1/cryptopals#readme"
+}
